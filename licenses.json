@@ -3,12 +3,24 @@
     "key": "KAYZ-9F3A-7B2E-1D4C",
     "exp": "2026-12-31"
   },
-   "moodswings-1.myshopify.com": {
+  "moodswings-1.myshopify.com": {
     "key": "KAYZ-FF2A-7B5E-1I5C",
     "exp": "2025-11-9"
   },
   "innercurrents.myshopify.com": {
     "key": "KAYZ-X7M9-Q2R5-T8V1",
     "exp": "2025-12-30"
+  },
+  "laa-proxy.myshopify.com": {
+    "key": "KAYZ-F7E9-Q285-TOV1",
+    "exp": "2025-11-14"
+  },
+  "new-store-2.myshopify.com": {
+    "key": "KAYZ-XXXX-XXXX-XXXX",
+    "exp": "YYYY-MM-DD"
+  },
+  "new-store-3.myshopify.com": {
+    "key": "KAYZ-XXXX-XXXX-XXXX",
+    "exp": "YYYY-MM-DD"
   }
 }
